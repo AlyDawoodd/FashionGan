@@ -1,5 +1,5 @@
-# FashionGan
-# FashionGAN with the help of Fashion MNIST dataset
+# FashionGAN
+## With the help of Fashion MNIST dataset
 ![image](https://user-images.githubusercontent.com/59305451/212728145-97b4aba9-6ca1-436c-acc0-b3724624083c.png)
 
 and following the tutorial of https://youtu.be/AALBGpLbj6Q thanks to Nicholas Renotte
